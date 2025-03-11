@@ -1,0 +1,156 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Container principal */
+#container {
+    width: 100vh;
+    background: #fff;
+    height: 90vh;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Título */
+h2 {
+    color: #333;
+    font-size: 18px;
+}
+
+/* Entrada do nome */
+#nomeContainer input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#definirNome {
+    background: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#definirNome:hover {
+    background: #0056b3;
+}
+
+/* Chat */
+#chat {
+    height: 70vh;
+    overflow-y: auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background: #fafafa;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Mensagens */
+.mensagem {
+    max-width: 80%;
+    word-wrap: break-word;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* Mensagens enviadas */
+.eu {
+    background: #007bff;
+    color: white;
+    align-self: flex-end;
+    text-align: right;
+}
+
+/* Mensagens recebidas */
+.outro {
+    background: #ddd;
+    color: black;
+    align-self: flex-start;
+    text-align: left;
+}
+
+/* Entrada de mensagem */
+#entrada {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+#mensagem {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#enviarBtn {
+    background: #28a745;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#enviarBtn:hover {
+    background: #218838;
+}
+
+#arrobaBox {
+    position: absolute;
+    bottom: 60px;
+    background: white;
+    width: 200px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 10px;
+    display: none;
+}
+
+#arrobaBox input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#listaArrobas {
+    list-style: none;
+    padding: 0;
+    margin: 5px 0 0 0;
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+#listaArrobas li {
+    padding: 5px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+}
+
+#listaArrobas li:hover {
+    background: #f0f0f0;
+}
+
+.hidden {
+    display: none;
+}
