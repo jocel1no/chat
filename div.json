@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Cartão de Crédito",
+        "valor": 250.75,
+        "vencimento": "2025-03-20"
+    },
+    {
+        "nome": "Conta de Luz",
+        "valor": 120.30,
+        "vencimento": "2025-03-22"
+    },
+    {
+        "nome": "Empréstimo",
+        "valor": 500.00,
+        "vencimento": "2025-03-25"
+    }
+]
