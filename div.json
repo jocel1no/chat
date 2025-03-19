@@ -1,17 +1,47 @@
 [
     {
-        "nome": "Cartão de Crédito",
-        "valor": 250.75,
-        "vencimento": "2025-03-20"
+        "nome": "Picpay",
+        "valor": 37.99,
+        "vencimento": "28"
     },
     {
-        "nome": "Conta de Luz",
-        "valor": 120.30,
-        "vencimento": "2025-03-22"
+        "nome": "Vivo",
+        "valor": 33.00,
+        "vencimento": "12"
     },
     {
-        "nome": "Empréstimo",
-        "valor": 500.00,
-        "vencimento": "2025-03-25"
+        "nome": "Mãe",
+        "valor": 70.00,
+        "vencimento": "11"
+    },
+    {
+        "nome": "Nubank",
+        "valor": 220.69,
+        "vencimento": "06"
+    },
+    {
+        "nome": "Honda",
+        "valor": 404.00,
+        "vencimento": "13"
+    },
+    {
+        "nome": "Roupas",
+        "valor": 80.00,
+        "vencimento": "04"
+    },
+    {
+        "nome": "Will",
+        "valor": 116.11,
+        "vencimento": "25"
+    },
+    {
+        "nome": "BrasilCard",
+        "valor": 88.07,
+        "vencimento": "08"
+    },
+    {
+        "nome": "Sebastiana",
+        "valor": 200.00,
+        "vencimento": "01"
     }
 ]
