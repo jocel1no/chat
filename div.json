@@ -1,10 +1,5 @@
 [
     {
-        "nome": "teste",
-        "valor": 37.99,
-        "vencimento": "20"
-    },
-    {
         "nome": "Picpay",
         "valor": 37.99,
         "vencimento": "28"
