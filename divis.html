@@ -5,43 +5,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dívidas - GAC Chat</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        * {
             margin: 0;
             padding: 0;
-            background-color: #f2f2f2;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
-            text-align: center;
+            min-height: 100vh;
+            padding: 20px;
         }
 
         .container {
             width: 100%;
-            max-width: 600px;
+            max-width: 500px;
             background-color: #fff;
             padding: 20px;
-            border-radius: 8px;
+            border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
         }
 
         h2 {
             color: #2a9d8f;
-            font-size: 28px;
-            margin-bottom: 20px;
-        }
-
-        .divida {
-            background-color: #e6f7ff;
-            padding: 15px;
-            border-radius: 5px;
+            font-size: 26px;
             margin-bottom: 15px;
         }
 
-        .divida p {
+        h3 {
+            color: #333;
+            margin-top: 15px;
+            font-size: 18px;
+        }
+
+        .divida {
+            background-color: #e3f2fd;
+            padding: 12px;
+            border-radius: 5px;
+            margin: 10px 0;
             font-size: 16px;
-            margin: 5px 0;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
 
         .message {
@@ -52,11 +60,17 @@
 
         .loading {
             margin-top: 20px;
+            font-size: 18px;
+            color: #2a9d8f;
+            display: none;
         }
 
-        .loading i {
-            font-size: 40px;
-            color: #2a9d8f;
+        /* Responsividade */
+        @media (max-width: 600px) {
+            .container {
+                padding: 15px;
+                max-width: 90%;
+            }
         }
     </style>
 </head>
@@ -64,6 +78,8 @@
 
     <div class="container">
         <h2>Dívidas - GAC Chat</h2>
+        
+        <div id="loading" class="loading">🔄 Carregando...</div>
         
         <div id="dividas-amanha">
             <h3>💳 Dívidas Vencendo Amanhã:</h3>
@@ -74,22 +90,20 @@
             <h3>📋 Todas as Dívidas:</h3>
             <div id="dividas-todas-lista"></div>
         </div>
-
-        <div id="loading" class="loading" style="display:none;">
-            <i class="fa fa-spinner fa-spin"></i> Carregando...
-        </div>
         
         <div id="message" class="message"></div>
     </div>
 
     <script>
-        // Função para carregar dívidas vencendo amanhã
+        // Exibir carregamento
+        document.getElementById("loading").style.display = "block";
+
         async function carregarDividasAmanha() {
             try {
                 const response = await fetch("https://div-21ch.onrender.com/verificar-dividas");
                 const data = await response.text();
                 
-                const dividasAmanha = data.split('\n').filter(item => item !== "");
+                const dividasAmanha = data.split('\n').filter(item => item.trim() !== "");
 
                 if (dividasAmanha.length === 0) {
                     document.getElementById("dividas-amanha").style.display = "none";
@@ -107,13 +121,12 @@
             }
         }
 
-        // Função para carregar todas as dívidas
         async function carregarDividasTodas() {
             try {
                 const response = await fetch("https://div-21ch.onrender.com/dividasall");
                 const data = await response.text();
 
-                const dividasTodas = data.split('\n').filter(item => item !== "");
+                const dividasTodas = data.split('\n').filter(item => item.trim() !== "");
 
                 if (dividasTodas.length === 0) {
                     document.getElementById("dividas-todas").style.display = "none";
@@ -128,10 +141,11 @@
                 }
             } catch (error) {
                 document.getElementById("message").innerText = "Erro ao carregar todas as dívidas.";
+            } finally {
+                document.getElementById("loading").style.display = "none";
             }
         }
 
-        // Carregar as dívidas ao iniciar a página
         window.onload = function() {
             carregarDividasAmanha();
             carregarDividasTodas();
