@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importar e Exportar JSON</title>
+</head>
+<body>
+    <h2>Importar JSON, formatar e exportar</h2>
+    <input type="file" id="jsonFileInput" accept=".json">
+    <button onclick="exportJson()">Exportar JSON</button>
+    <pre id="output"></pre>
+    <h3>Total de '@': <span id="totalAtCount">0</span></h3>
+
+    <script>
+        let formattedData = {};
+
+        document.getElementById('jsonFileInput').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const jsonData = JSON.parse(e.target.result);
+
+                    // Verifica se o JSON importado é um objeto válido
+                    if (typeof jsonData === 'object' && jsonData !== null) {
+                        formattedData = {};
+                        let atCount = 0;
+
+                        // Itera sobre as chaves do objeto
+                        for (const key in jsonData) {
+                            const item = jsonData[key];
+
+                            // Verifica se os campos 'trigger' e 'plainTextBody' existem e se 'trigger' começa com '@'
+                            if (item.trigger && item.plainTextBody && item.trigger.startsWith('@')) {
+                                formattedData[item.trigger] = item.plainTextBody;
+                                atCount++; // Conta quantos '@' foram adicionados
+                            }
+                        }
+
+                        // Exibe os dados formatados
+                        document.getElementById('output').textContent = JSON.stringify(formattedData, null, 2);
+                        document.getElementById('totalAtCount').textContent = atCount; // Atualiza o contador de '@'
+                    } else {
+                        alert("O JSON importado não está no formato esperado.");
+                    }
+                } catch (error) {
+                    alert("Erro ao processar o JSON: " + error.message);
+                }
+            };
+            reader.readAsText(file);
+        });
+
+        function exportJson() {
+            if (Object.keys(formattedData).length === 0) {
+                alert("Nenhum dado para exportar!");
+                return;
+            }
+
+            const blob = new Blob([JSON.stringify(formattedData, null, 2)], { type: "application/json" });
+            const a = document.createElement("a");
+            a.href = URL.createObjectURL(blob);
+            a.download = "snippets_formatado.json";
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        }
+    </script>
+</body>
+</html>
