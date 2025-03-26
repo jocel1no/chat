@@ -24,17 +24,32 @@
                 try {
                     const jsonData = JSON.parse(e.target.result);
 
-                    // Verifica se o JSON importado é um objeto válido
                     if (typeof jsonData === 'object' && jsonData !== null) {
                         formattedData = {};
                         let atCount = 0;
 
-                        // Itera sobre as chaves do objeto
                         for (const key in jsonData) {
                             const item = jsonData[key];
 
                             // Verifica se os campos 'trigger' e 'plainTextBody' existem e se 'trigger' começa com '@'
                             if (item.trigger && item.plainTextBody && item.trigger.startsWith('@')) {
+                                
+                                // Conteúdos proibidos no plainTextBody
+                                const ignoredTexts = [
+                                    "Boa tarde",
+                                    "Boa noite",
+                                    "Bom dia",
+                                    "Boa dia",
+                                    "Boa Tarde",
+                                    "Boa Noite",
+                                    "Bom Dia"
+                                ];
+
+                                // Se plainTextBody contiver um dos textos ignorados, pula esse item
+                                if (ignoredTexts.some(text => item.plainTextBody.includes(text))) {
+                                    continue;
+                                }
+
                                 formattedData[item.trigger] = item.plainTextBody;
                                 atCount++; // Conta quantos '@' foram adicionados
                             }
