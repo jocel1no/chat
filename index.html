@@ -1,1 +1,39 @@
-AWS
+<!DOCTYPE html>
+<html>
+<head>
+  <title>IP da Máquina</title>
+</head>
+<body>
+  <h2>IPs da Máquina</h2>
+  <p><strong>IP Público:</strong> <span id="ip-publico">Carregando...</span></p>
+  <p><strong>IP Local (rede):</strong> <span id="ip-local">Carregando...</span></p>
+
+  <script>
+    // IP Público (via API externa)
+    fetch('https://api.ipify.org?format=json')
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById('ip-publico').textContent = data.ip;
+      });
+
+    // IP Local (via WebRTC — pode não funcionar em todos os navegadores)
+    async function getLocalIP() {
+      const pc = new RTCPeerConnection({iceServers: []});
+      pc.createDataChannel('');
+      pc.createOffer().then(offer => pc.setLocalDescription(offer));
+      pc.onicecandidate = event => {
+        if (event && event.candidate) {
+          const ipRegex = /([0-9]{1,3}(\.[0-9]{1,3}){3})/;
+          const ipMatch = ipRegex.exec(event.candidate.candidate);
+          if (ipMatch) {
+            document.getElementById('ip-local').textContent = ipMatch[1];
+            pc.close();
+          }
+        }
+      };
+    }
+
+    getLocalIP();
+  </script>
+</body>
+</html>
