@@ -730,5 +730,6 @@
   "#ola": "{saudacao}, meu nome é {nome}, tudo bem?\nPor favor, informe seu CPF e sua dúvida para que eu possa ajudar.",
   "#fortics": "ad",
   "#2fortics": "a",
-  "#ag": "Posso ajudar em algo mais ou alguma dúvida?"
+  "#ag": "Posso ajudar em algo mais ou alguma dúvida?",
+  "#gt": "{saudacao}!\nFoi um prazer lhe atender. Lhe desejo uma ótima semana!"
 }
