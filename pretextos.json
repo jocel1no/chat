@@ -742,5 +742,6 @@
   "#ina": "Oi, você ainda está aí? Não deixe que seu atendimento seja finalizado por falta de interação.",
   "#in1": "Peço desculpas pela espera. Infelizmente, preciso encerrar este atendimento agora. Caso necessite de ajuda novamente, sinta-se à vontade para entrar em contato.\nEstarei à disposição!",
   "#aucc": "Se você é colaborador da Americanas, temos uma ótima notícia: você está isento da taxa UCC. Um benefício exclusivo para quem faz parte do nosso time!",
-  "#bio": "Para darmos continuidade à análise, pedimos que envie uma foto atual do seu rosto e dos seus documentos de identificação.\n\n-Aceitamos RG (frente e verso) ou CNH aberta.\n\nAlém disso, solicitamos que informe o número de telefone para o qual podemos enviar um link via SMS, facilitando o encaminhamento da documentação necessária."
+  "#bio": "Para darmos continuidade à análise, pedimos que envie uma foto atual do seu rosto e dos seus documentos de identificação.\n\n-Aceitamos RG (frente e verso) ou CNH aberta.\n\nAlém disso, solicitamos que informe o número de telefone para o qual podemos enviar um link via SMS, facilitando o encaminhamento da documentação necessária.",
+  "#ebio": "O link foi enviado com sucesso e terá validade de uma hora. Assim que recebermos a documentação necessária, a resposta será disponibilizada diretamente no seu aplicativo BrasilCard Digital."
 }
