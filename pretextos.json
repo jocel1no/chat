@@ -733,5 +733,6 @@
   "#ag": "Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
   "#gt": "{saudacao}!\nFoi um prazer lhe atender. Lhe desejo uma ótima semana!",
   "#cpf": "Para que eu siga com a analise, peço que me informe o seu cpf.",
-  "#app": "Baixe o aplicativo aqui:\n\nAndroid: https://play.google.com/store/apps/details?id=br.com.brasilcard.app_banco_digital&pcampaignid=web_share\n\niPhone: https://apps.apple.com/br/app/brasilcard-digital/id1593431800"
+  "#app": "Baixe o aplicativo aqui:\n\nAndroid: https://play.google.com/store/apps/details?id=br.com.brasilcard.app_banco_digital&pcampaignid=web_share\n\niPhone: https://apps.apple.com/br/app/brasilcard-digital/id1593431800",
+  "#aus": "Obrigada pela confirmação, peço que aguarde enquanto eu verifico as informações."
 }
