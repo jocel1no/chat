@@ -730,7 +730,7 @@
   "#ola": "{saudacao}, tudo bem com você? Espero que sim. Meu nome é {nome} , como posso ajudar?",
   "#fortics": "ad",
   "#2fortics": "a",
-  "#ag": "Posso ajudar em algo mais ou alguma dúvida?",
+  "#ag": "Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
   "#gt": "{saudacao}!\nFoi um prazer lhe atender. Lhe desejo uma ótima semana!",
   "#cpf": "Para que eu siga com a analise, peço que me informe o seu cpf."
 }
