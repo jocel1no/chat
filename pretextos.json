@@ -382,7 +382,7 @@
   "@lbm": "Hi First Name, ",
   "@ldes": "DADOS OK - DESBLOQUEIO DE CARTÃO | PROTOCOLO CHAT:",
   "@lem2v": "PEDIDO DE SEGUNDA VIA DO CARTÃOCLIENTE CONFIRMOU TODOS OS DADOS:SIMFOI COBRADO TAXA:MOTIVO:PROTOCOLO:",
-  "@lemcont": "CONTESTAÇÃO DE COMPRA / DATA DA COMPRA:            / ESTABELECIMENTO:/ VALOR/QDT PARCELAS:        / CARTÃO FÍSICO OU VIRTUAL:/ FINAL DO CARTÃO:/ DESCRIÇÃO: / PROTOCOLO:",
+  "@lemcont": "CONTESTAÇÃO DE COMPRA \n/ DATA DA COMPRA: \n/ESTABELECIMENTO:\n/ VALOR/QDT PARCELAS:\n/ CARTÃO FÍSICO OU VIRTUAL:\n/ FINAL DO CARTÃO:\n/ DESCRIÇÃO: \n/ PROTOCOLO:",
   "@lemdes": "cartão desbloqueado (senha incorreta) / dados: ok / protocolo chat:",
   "@lemend": "alteração de endereço / dados ok / forms ok / chat protocolo: ",
   "@lemred": "forms de REDEFINIÇÃO DE TENTATIVAS e DESBLOQUEIO  / dados: ok / chat protocolo: ",
