@@ -551,7 +551,7 @@
   "@qpf": "Que dia você efetuou o pagamento da fatura?😃",
   "@qr": "não é possível pagamento via QRcode no momento, os pagamentos disponíveis são somente saldo em conta e boleto.",
   "@qs": "Qual senha deseja? A do aplicativo, ou a do cartão?",
-  "@qua": "Certo, me informe qual é o aplicativo que você instalou?- Brasil Card Cliente - Brasil Card Digital ",
+  "@qua": "Certo, me informe qual é o aplicativo que você instalou?\n\n- Brasil Card Cliente \n- Brasil Card Digital",
   "@que": "Para prosseguirmos, é preciso responder um pequeno questionário de satisfação, tudo bem?",
   "@qul": "Qual o erro que está apresentando? ",
   "@qv": "Qual o dia de vencimento da sua fatura?",
