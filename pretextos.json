@@ -718,7 +718,7 @@
   "@nextra": "Entendemos sua solicitação, mas informamos que o limite emergencial de 15% é um benefício automático dos cartões Brasil Card Visa e, por isso, não pode ser cancelado ou desativado.\n\n🔄 O limite extra será acionado automaticamente caso você ultrapasse seu limite normal, e a taxa de R$ 14,90 só será cobrada se esse benefício for utilizado. 💰\n\nPosso ajudar em algo mais, alguma dúvida?😊",
   "@pl": "Não é possível realizar pagamento de boleto ou compras atravé de links de pagamento  usando o limite do cartão. A função crédito pode ser usada em maquininhas, sites e aplicativos para adquirir produtos e serviços.😊",
   "@10": "Entendo, atualmente estamos enfrentando uma instabilidade. Mas foi lançada uma nova atualização 📲 para correção, verifique se possui uma disponível, caso não, desinstale e instale novamente e verifique o retorno do app ✔.\n\nSe persistir peço que tente novamente mais tarde 😕.\n\nPosso ajudar em algo mais além disso ? Outra dúvida ? 🤝🏻",
-  "@mini": "",
+  "@mini": "Se você paga exatamente o valor do mínimo que tá na fatura, entra no rotativo, que tem juros menores.\nMas se você paga qualquer valor diferente (tipo um pouco a mais ou a menos), aí já muda tudo: o sistema cobra outros juros, que geralmente são mais altos, porque não conta como pagamento mínimo certinho.\n\nEntão o ideal é: se for pagar o mínimo, tem que ser o valor exato, nem R$ 0,01 a mais ou a menos, tá?",
   "#ola": "{saudacao}, tudo bem com você? Espero que sim. Meu nome é {nome} , como posso ajudar?",
   "#ag": "Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
   "#gt": "{saudacao}!\nFoi um prazer lhe atender. Lhe desejo uma ótima semana!",
