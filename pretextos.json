@@ -747,6 +747,6 @@
   "@nvisa": "Para melhor atender sua solicitação, vou transferir nosso chat para o setor de negociação do cartão Visa. Eles poderão te ajudar da melhor forma possível! \n\nAguarde um momento, por favor. Obrigado pela sua paciência!",
   "#dad": "Poderia confirmar os seguintes dados.\n\nNome Completo:\nCPF:\nProntuário:\nE-mail:\nLoja:",
   "@culpa": "Peço desculpas pelo transtornos 😢❤",
-  "#av": "Foi um prazer poder ajudar! Desejo a você uma excelente noite, . Até logo!",
+  "#av": "Foi um prazer poder ajudar! Desejo a você um excelente dia. {saudacao} e até logo!",
   "#aberto": "Enviei ao setor responsável. As próximas informações serão enviadas em seu e-mail e agora é só aguardar."
 }
