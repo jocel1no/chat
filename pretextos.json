@@ -721,7 +721,7 @@
   "@mini": "Se você paga exatamente o valor do mínimo que tá na fatura, entra no rotativo, que tem juros menores.\nMas se você paga qualquer valor diferente (tipo um pouco a mais ou a menos), aí já muda tudo: o sistema cobra outros juros, que geralmente são mais altos, porque não conta como pagamento mínimo certinho.\n\nEntão o ideal é: se for pagar o mínimo, tem que ser o valor exato, nem R$ 0,01 a mais ou a menos, tá?",
   "#ola": "{saudacao}, tudo bem com você? Espero que sim. Meu nome é {nome}, como posso ajudar?",
   "#ag": "Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
-  "#gt": "Disponha!\nFoi um prazer poder ajudar! Desejo a você um semana. e até logo!",
+  "#gt": "Disponha!\nFoi um prazer poder ajudar! Desejo a você uma excelente  semana. e até logo!",
   "#cpf": "Para que eu siga com a analise, peço que me informe o seu cpf.",
   "#app": "Baixe o aplicativo aqui:\n\nAndroid: https://play.google.com/store/apps/details?id=br.com.brasilcard.app_banco_digital&pcampaignid=web_share\n\niPhone: https://apps.apple.com/br/app/brasilcard-digital/id1593431800",
   "#aus": "Obrigado pela confirmação, peço que aguarde enquanto eu verifico as informações.",
