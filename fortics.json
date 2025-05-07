@@ -1,4 +1,4 @@
 {
-    @nome: "João",
-    @setor: "Suporte"
+    "@nome": "João",
+    "@setor": "Suporte"
 }
