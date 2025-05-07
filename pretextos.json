@@ -756,5 +756,6 @@
   "#iii": "ii",
   "#45linkam": "iii",
   "#hola": "Olá! Me chamo {nome}. Vi que você já passou por um atendimento anterior. Vou verificar o que foi tratado para seguir com a sua solicitação. Só um instante!",
-  "#tran": "Por gentileza, aguarde um momento enquanto realizo a transferência para o departamento responsável pela sua solicitação."
+  "#tran": "Por gentileza, aguarde um momento enquanto realizo a transferência para o departamento responsável pela sua solicitação.",
+  "#tra": "Por gentileza, aguarde um momento enquanto realizo a transferência para o departamento responsável pela sua solicitação."
 }
