@@ -753,5 +753,10 @@
     "#vir": "Como gerar e usar seu cartão virtual:\n\nVocê pode gerar seu cartão virtual diretamente no aplicativo, mesmo que o cartão físico ainda não tenha sido entregue.\nO cartão virtual é exclusivo para compras online e para cadastrar o número do cartão em aplicativos de compras. Não é compatível com a função de aproximação ou compras físicas.\n\nPasso a passo para criar seu cartão virtual: \n\n1- Abra o aplicativo Brasilcard Digital e clique na opção \"Cartão Virtual\". \n2- Selecione \"Criar Cartão Virtual\" e digite a sua senha. \n3- Pronto! Agora é só aproveitar nas suas compras online! \n\nPosso te ajudar em algo mais ou alguma dúvida?",
     "#melhor": "melhores dias de compras de cada vencimento:\n\nvencimento -01 melhor dia compra 23\nvencimento -05 melhor dia compra 29\nvencimento -08 melhor dia compra 30\nvencimento -10 melhor dia compra 03\nvencimento -15 melhor dia compra 06\nvencimento -20 melhor dia compra 13\nvencimento -25 melhor dia compra 18\n\no melhor dia de compra também é o fechamento da fatura então se ele compra no melhor dia de compra ou após isso não virá para o mesmo mês.",
     "#cav": "Estarei dando continuidade ao seu atendimento.",
-    "arquivo": "fortics.json"
+    "arquivo": "fortics.json",
+    "#gg": "Peço, por gentileza, que aguarde enquanto verifico as informações.",
+    "#hola": "Olá! Me chamo {nome}. Vi que você já passou por um atendimento anterior. Vou verificar o que foi tratado para seguir com a sua solicitação. Só um instante!",
+    "#iii": "ii",
+    "#tra": "Por gentileza, aguarde um momento enquanto realizo a transferência para o departamento responsável pela sua solicitação.",
+    "#tran": "Por gentileza, aguarde um momento enquanto realizo a transferência para o departamento responsável pela sua solicitação."
 }
