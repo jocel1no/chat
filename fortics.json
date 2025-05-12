@@ -18,7 +18,7 @@
     "#in1": "O tempo de espera foi excedido. Retorne quando puder. Estamos à disposição!\n\nEncerramos o atendimento devido à falta de interação. Será um prazer atendê-lo(a) novamente!",
     "#ina": "Ainda está conosco? Se precisar de algo, é só avisar!",
     "#limite": "Verifiquei que você foi aprovado com limite inicial de R$0,0 !!\nAcesse o aplicativo Brasil Card digital e aproveite!",
-    "#melhor": "Melhores dias de compra de cada vencimento:\n\nvencimento -01 melhor dia compra 23\nvencimento -05 melhor dia compra 29\nvencimento -08 melhor dia compra 30\nvencimento -10 melhor dia compra 03\nvencimento -15 melhor dia compra 06\nvencimento -20 melhor dia compra 13\nvencimento -25 melhor dia compra 18\n\nO melhor dia de compra também é o fechamento da fatura então se ele compra no melhor dia de compra, ou após isso, não virá para o mesmo mês.",
+    "#melhor": "melhores dias de compras de cada vencimento:\n\nvencimento -01 melhor dia compra 23\nvencimento -05 melhor dia compra 29\nvencimento -08 melhor dia compra 30\nvencimento -10 melhor dia compra 03\nvencimento -15 melhor dia compra 06\nvencimento -20 melhor dia compra 13\nvencimento -25 melhor dia compra 18\n\no melhor dia de compra também é o fechamento da fatura então se ele compra no melhor dia de compra ou após isso não virá para o mesmo mês.",
     "#obg": "Obrigada por aguardar o meu retorno.",
     "#ola": "{saudacao}, tudo bem com você? Espero que sim. Meu nome é {nome}, como posso ajudar?",
     "#print": "Por gentileza poderia encaminhar um print da mensagem que aparece em seu sistema ?",
@@ -568,7 +568,7 @@
     "@pix": "Informamos que não é possível realizar o cancelamento ou estorno de pagamentos via PIX, pois não nos responsabilizamos por esse procedimento. Orientamos que entre em contato diretamente com o recebedor do valor para solicitar o estorno. Ressaltamos que não realizamos esse tipo de movimentação ou cancelamento. Teria algo mais, alguma outra dúvida que eu possa ajular? 🥰",
     "@pl": "Não é possível realizar pagamento de boleto ou compras atravé de links de pagamento  usando o limite do cartão. A função crédito pode ser usada em maquininhas, sites e aplicativos para adquirir produtos e serviços.😊",
     "@plus": "🎉 Agora a UCC do seu cartão Brasil Card virou UCC Plus! 🚀 Com ela, você tem acesso gratuito a uma plataforma recheada de livros digitais 📚✨. \n\nE o melhor: sem custo adicional!\n\nPara aproveitar: \n\n👉 Acesse https:\/\/skeelo.com.br\/pt\/ \n👉 Informe o seu telefone e CPF \n👉 Conclua o seu cadastro!\n\n📧 Todo mês você receberá um e-mail com a nota fiscal desse serviço, mas não se preocupe: isso não é uma cobrança 😉.",
-    "@pm": "Pagamento mínimo:O pagamento minimo é quando o cliente realiza o pagamento de um valor igual ou maior que o valor mínimo descrito na sua fatura, vale lembrar que saldo restante será reprocessado para o próximo vencimento, com as taxas de juros devidas.💙",
+    "@pm": "Pagamento mínimo:\nO pagamento mínimo é quando o cliente realiza o pagamento de um valor igual ou maior que o valor mínimo descrito na sua fatura, vale lembrar que saldo restante será reprocessado para o próximo vencimento, com as taxas de juros devidas.💙",
     "@pn": "Devido a parcelamentos anteriores, o sistema não disponibilizou a opção do pagamento parcelado da sua fatura atual, sendo assim as opções disponíveis seriam o pagamento mínimo ou total. \n\nPosso ajudar em algo mais, alguma outra dúvida? 🥰",
     "@por": "Por nada, espero ter lhe ajudado. 😀🤝🏻 Desejo a você um ótimo dia e uma excelente semana 💕. Por gentileza, peço que participe da minha avaliação é muito importante. 🙏",
     "@posso": "Como posso ajudar? 💙",
@@ -764,5 +764,9 @@
     "#certo": "Certo. Me informe o nome completo e CPF do cliente, por gentileza",
     "#senha": "Obrigada por aguardar o meu retorno. Foi feita a solicitação e peço que fique no aguardo. Irá receber a nova senha pelo seu e-mail. Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
     "#sr": "Certo, vou estar solicitando o reset da sua senha, peço que aguarde só um momento.",
-    "#infor": "Qualquer nova informação ou dúvida, pode me chamar que estou disponível!"
+    "#infor": "Qualquer nova informação ou dúvida, pode me chamar que estou disponível!",
+    "#iii": "ii",
+    "#link": "Obrigada, pelas informações. Já foi realizado o envio de um novo link para o número de telefone informado. Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
+    "#rs": "Obrigada por aguardar o meu retorno. Foi feita a solicitação e peço que fique no aguardo. Irá receber a nova senha pelo seu e-mail. Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
+    "@fic": "Fico feliz em ter ajudado! Você receberá uma pesquisa sobre o atendimento de hoje. Sua opinião é super importante para continuarmos melhorando cada vez mais!😊💕\n\nGostaríamos de saber como foi meu atendimento.\nSua opinião faz a diferença!\n\nA nota é de 1 a 5, sendo 5 a maior e melhor nota!\n\n1  ⭐\n2 ⭐⭐\n3 ⭐ ⭐⭐\n4 ⭐⭐⭐⭐\n5 ⭐ ⭐⭐⭐⭐ \n\nEstamos sempre aqui para ajuda-lo. Até logo e obrigado pelo contato!💚"
 }
