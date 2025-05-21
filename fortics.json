@@ -773,5 +773,6 @@
     "@havia": "Seu cartão havia sido bloqueado por senha incorreta, porém já realizei o desbloqueio e ressalto que a senha que deve utilizar é a de 4 dígitos. 💙\nSe recorda da senha?",
     "@via": "Preciso que realize o debloqueio do cartão pelo aplicativo para que eu possa estar cancelando a via 😊💕",
     "@dev": "Obrigado por aguardar, devido a demora na entrega estarei solicitando uma segunda via sem taxa 😊💙",
-    "#tempo": "Peço que aguarde só mais um momento, a analise está demorando mais tempo que o esperado."
+    "#tempo": "Peço que aguarde só mais um momento, a analise está demorando mais tempo que o esperado.",
+    "#am": "Agradecemos a confirmação de dados. Verifico que seu atendimento necessita de uma análise manual, devido a isso peço que aguarde o meu retorno em até 10 min. Caso precise pode me chamar."
 }
