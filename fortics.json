@@ -520,7 +520,7 @@
     "@obri": "Obrigado pelas informações! 💙 Para dar continuidade ao seu atendimento, vou precisar confirmar os dados informados. 😉 Peço por gentileza que aguarde um momento, caso precise é só chamar. 🤗 ",
     "@obs": "Obrigado por aguardar 😊",
     "@obv": "Obrigada pela confirmação, aguarde um momento enquanto finalizo a verificação.😉😃",
-    "@ocor": "Houve uma ocorrência com sua entrega, podemos solicitar um reenvio. Pode ser? Envie seu endereço novamente e um ponto de referencia para que facilite o reenvio, por gentileza!💙🚚",
+    "@ocor": "Houve uma ocorrência com sua entrega, podemos solicitar um reenvio. Pode ser? Envie seu endereço novamente atualizado para que facilite o reenvio, por gentileza!💙🚚",
     "@oend": "Você lembra de ter dado outro endereço quando fez o cadastro?😃",
     "@og": "Obrigada por aguardar ,desculpa pela demora.💙",
     "@oi": "Oi, você está aí? Tem alguma dúvida ou deseja algo mais? 😊",
@@ -759,7 +759,7 @@
     "#tra": "Por gentileza, aguarde um momento enquanto realizo a transferência para o departamento responsável pela sua solicitação.",
     "#gg": "Peço, por gentileza, que aguarde enquanto verifico as informações.",
     "#qua": "Qualquer nova informação ou dúvida, pode me chamar que estou disponível!",
-    "#ncomp": "Em nosso sistema não constam tentativas. Neste caso pode ser o sistema da americanas negando a compra. Recomendamos que acione o seu suporte interno para mais informações.",
+    "#ncomp": "Em nosso sistema não constam tentativas. Neste caso pode ser o sistema da americanas negando a compra. Recomendamos que acione o seu suporte interno para mais informações.\n\nRegionais e distritais: devem acionar Rafael Duncan (rafael.barbosa@americanas.io) e Luciane Brandão (luciane.brandao@americanas.io).\nGerentes de loja: devem encaminhar os problemas para o e-mail usuario.quiosque@americanas.io.",
     "#aud": "Não conseguimos ouvir áudio, peço que digite a sua solicitação, por gentileza.",
     "#certo": "Certo. Me informe o nome completo e CPF do cliente, por gentileza",
     "#senha": "Obrigada por aguardar o meu retorno. Foi feita a solicitação e peço que fique no aguardo. Irá receber a nova senha pelo seu e-mail. Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
@@ -772,5 +772,6 @@
     "@ava": "Agradeço por compartilhar isso com a gente. Já deixei seu caso registado com prioridade e a equipe responsável vai seguir acompanhando. Vou lhe encaminhar para uma pesquisa sobre o atendimento de hoje. Sua opinião é fundamental para que possamos melhorar casa vez mais. 😊💕\n\nVocê poderia avaliar meu atendimento? 💙Se sim, fico muito feliz 😍\n\nA nota é de 1 a 5, sendo 5 a melhor nota. 🤩\n\nÉ muito importante para o meu desenvolvimento. 😊\n\nFico feliz com sua avaliação👏💙Se precisar de mais alguma coisa, estamos sempre à disposição.",
     "@havia": "Seu cartão havia sido bloqueado por senha incorreta, porém já realizei o desbloqueio e ressalto que a senha que deve utilizar é a de 4 dígitos. 💙\nSe recorda da senha?",
     "@via": "Preciso que realize o debloqueio do cartão pelo aplicativo para que eu possa estar cancelando a via 😊💕",
-    "@dev": "Obrigado por aguardar, devido a demora na entrega estarei solicitando uma segunda via sem taxa 😊💙"
+    "@dev": "Obrigado por aguardar, devido a demora na entrega estarei solicitando uma segunda via sem taxa 😊💙",
+    "#tempo": "Peço que aguarde só mais um momento, a analise está demorando mais tempo que o esperado."
 }
