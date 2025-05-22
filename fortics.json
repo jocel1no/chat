@@ -759,7 +759,7 @@
     "#tra": "Por gentileza, aguarde um momento enquanto realizo a transferência para o departamento responsável pela sua solicitação.",
     "#gg": "Peço, por gentileza, que aguarde enquanto verifico as informações.",
     "#qua": "Qualquer nova informação ou dúvida, pode me chamar que estou disponível!",
-    "#ncomp": "Em nosso sistema não constam tentativas. Neste caso pode ser o sistema da americanas negando a compra. Recomendamos que acione o seu suporte interno para mais informações.\n\nRegionais e distritais: devem acionar Rafael Duncan (rafael.barbosa@americanas.io) e Luciane Brandão (luciane.brandao@americanas.io).\nGerentes de loja: devem encaminhar os problemas para o e-mail usuario.quiosque@americanas.io.",
+    "#ncomp": "Em nosso sistema não constam tentativas. Neste caso pode ser o sistema da americanas negando a compra. Recomendamos que acione o seu suporte interno para mais informações.",
     "#aud": "Não conseguimos ouvir áudio, peço que digite a sua solicitação, por gentileza.",
     "#certo": "Certo. Me informe o nome completo e CPF do cliente, por gentileza",
     "#senha": "Obrigada por aguardar o meu retorno. Foi feita a solicitação e peço que fique no aguardo. Irá receber a nova senha pelo seu e-mail. Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
@@ -774,7 +774,5 @@
     "@via": "Preciso que realize o debloqueio do cartão pelo aplicativo para que eu possa estar cancelando a via 😊💕",
     "@dev": "Obrigado por aguardar, devido a demora na entrega estarei solicitando uma segunda via sem taxa 😊💙",
     "#tempo": "Peço que aguarde só mais um momento, a analise está demorando mais tempo que o esperado.",
-    "@oo": "NOME:\nID:\nCIDADE:\nDATA DE EMISSÃO\nPROTOCOLO:",
-    "#am": "Agradecemos a confirmação de dados. Verifico que seu atendimento necessita de uma análise manual, devido a isso peço que aguarde o meu retorno em até 10 min. Caso precise pode me chamar.",
-    "@um": "Só um momento, por gentileza, que estarei verificando, Qualquer dúvida é só me chamar😊💙"
+    "#am": "Agradecemos a confirmação de dados. Verifico que seu atendimento necessita de uma análise manual, devido a isso peço que aguarde o meu retorno em até 10 min. Caso precise pode me chamar."
 }
