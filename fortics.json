@@ -760,7 +760,7 @@
     "#qua": "Qualquer nova informação ou dúvida, pode me chamar que estou disponível!",
     "#ncomp": "Em nosso sistema não constam tentativas. Neste caso pode ser o sistema da americanas negando a compra. Recomendamos que acione o seu suporte interno para mais informações.",
     "#aud": "Não conseguimos ouvir áudio, peço que digite a sua solicitação, por gentileza.",
-    "#certo": "Certo. Me informe o nome completo e CPF do cliente, por gentileza",
+    "#certo": "Certo. Me informe o nome completo, CPF e número de telefone do cliente, por gentileza",
     "#senha": "Obrigada por aguardar o meu retorno. Foi feita a solicitação e peço que fique no aguardo. Irá receber a nova senha pelo seu e-mail. Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
     "#sr": "Certo, vou estar solicitando o reset da sua senha, peço que aguarde só um momento.",
     "#infor": "Qualquer nova informação ou dúvida, pode me chamar que estou disponível!",
@@ -777,5 +777,7 @@
     "#45linkam": "iii",
     "#ok": "Certo, só um momento enquanto verifico as informações, qualquer duvida pode me sinalizar!",
     "@oo": "NOME:\nID:\nCIDADE:\nDATA DE EMISSÃO\nPROTOCOLO:",
-    "@um": "Só um momento, por gentileza, que estarei verificando, Qualquer dúvida é só me chamar😊💙"
+    "@um": "Só um momento, por gentileza, que estarei verificando, Qualquer dúvida é só me chamar😊💙",
+    "#prazo": "O prazo de entrega é de 15 a 20 dias úteis, podendo ser entregue antes no endereço cadastrado.\n\nLembrete:\n\nComo são considerados apenas dias úteis, sábados e domingos não contam.\nAssim que o código for gerado, você poderá acompanhar o processo diretamente no aplicativo.\n\nSe estiver dentro do prazo, basta aguardar.",
+    "#ras": "Tem um prazo de 10 dias úteis para constar rastreio, após o cartão ser emitido. Se ainda não mostra rastreio no seu aplicativo, somente aguardar o prazo para os dados serem atualizados e ser gerado o código no aplicativo."
 }
