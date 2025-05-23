@@ -779,5 +779,7 @@
     "@oo": "NOME:\nID:\nCIDADE:\nDATA DE EMISSÃO\nPROTOCOLO:",
     "@um": "Só um momento, por gentileza, que estarei verificando, Qualquer dúvida é só me chamar😊💙",
     "#prazo": "O prazo de entrega é de 15 a 20 dias úteis, podendo ser entregue antes no endereço cadastrado.\n\nLembrete:\n\nComo são considerados apenas dias úteis, sábados e domingos não contam.\nAssim que o código for gerado, você poderá acompanhar o processo diretamente no aplicativo.\n\nSe estiver dentro do prazo, basta aguardar.",
-    "#ras": "Tem um prazo de 10 dias úteis para constar rastreio, após o cartão ser emitido. Se ainda não mostra rastreio no seu aplicativo, somente aguardar o prazo para os dados serem atualizados e ser gerado o código no aplicativo."
+    "#ras": "Tem um prazo de 10 dias úteis para constar rastreio, após o cartão ser emitido. Se ainda não mostra rastreio no seu aplicativo, somente aguardar o prazo para os dados serem atualizados e ser gerado o código no aplicativo.",
+    "#qap": "Qual aplicativo esta utilizando?",
+    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?"
 }
