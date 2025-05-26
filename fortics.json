@@ -781,5 +781,6 @@
     "arquivo": "fortics.json",
     "#45linkam": "iii",
     "#iii": "ii",
-    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?"
+    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?",
+    "#ins": "Informamos que estamos enfrentando uma instabilidade temporária no sistema, o que impossibilitou o envio do link para acesso ao cartão provisório e a liberação do aplicativo. Nossa equipe já está trabalhando para resolver o quanto antes. Agradecemos pela compreensão"
 }
