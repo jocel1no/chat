@@ -10,7 +10,7 @@
     "#av": "Foi um prazer poder ajudar! Desejo a você um excelente dia. {saudacao} e até logo!",
     "#bio": "Para darmos continuidade à análise, pedimos que envie uma foto atual do seu rosto e dos seus documentos de identificação.\n\n-Aceitamos RG (frente e verso) ou CNH aberta.\n\nAlém disso, solicitamos que informe o número de telefone para o qual podemos enviar um link via SMS, facilitando o encaminhamento da documentação necessária.",
     "#cav": "Estarei dando continuidade ao seu atendimento.",
-    "#certo": "Certo. Me informe o nome completo, CPF e número de telefone do cliente, por gentileza",
+    "#certo": "Certo. Me informe o nome completo, CPF e número de telefone do cliente, por gentileza.",
     "#cpf": "Para que eu siga com a analise, peço que me informe o seu cpf.",
     "#d": "O desbloqueio é realizado apenas no aplicativo. O aplicativo para realizar o desbloqueio é o Brasilcard Digital.💙",
     "#dad": "Para darmos continuidade à sua solicitação, precisamos que nos forneça os seguintes dados:\nNome completo:\nCódigo da loja:\nProntuário:\nE-mail:\nCPF:\ntelefone:",
@@ -380,7 +380,7 @@
     "@fn3": "Ela ainda não fechou, amanhã entra em conferência e assim que os valores forem lançados, será enviada automaticamente para o seu e-mail. Posso lhe ajudar em algo mais? Ficou alguma dúvida? 💙😊",
     "@fnf": "Como o ciclo de faturamento da sua fatura ainda não se encerrou, ou seja, sua fatura não fechou, não é possível  fazer o seu envio no momento, somente quando esse ciclo se encerrar! Posso te ajudar em algo mais ou alguma dúvida? 😊",
     "@foi": "Foi um prazer atender você. Irei encaminhar uma pesquisa de avaliação do meu atendimento, conto com sua ajuda para um melhor crescimento na empresa. Estamos sempre a disposição. 💜✨",
-    "@font": "Nesse caso, você precisa diminuir a fonte do seu aparelho telefônico!\n\nPara diminuir ou aumentar a fonte, siga estas instruções:\n\n- No dispositivo, abra o app Configurações.\n- Pesquise e selecione Tamanho da fonte.\n- Para mudar o tamanho da fonte, mova o controle deslizante para a esquerda ou direita.\n\nPosso te ajudar em algo mais ou alguma dúvida?",
+    "@font": "Nesse caso, você precisa diminuir a fonte do seu aparelho telefônico!\n\nPara diminuir ou aumentar a fonte, siga estas instruções:\n\n- No dispositivo, abra o app Configurações.\n- Pesquise e selecione Tamanho da fonte.\n- Para mudar o tamanho da fonte, mova o controle deslizante para a esquerda ou direita.\n\nPosso te ajudar em algo mais ou alguma dúvida? 😊",
     "@fonte": "Nesse caso, você precisa diminuir a fonte do seu aparelho telefônico!Para diminuir ou aumentar a fonte, siga estas instruções:- No dispositivo, abra o app Configurações.- Pesquise e selecione Tamanho da fonte.- Para mudar o tamanho da fonte, mova o controle deslizante para a esquerda ou direita.Posso te ajudar em algo mais ou alguma dúvida? 😊",
     "@forms1": "A atualização do endereço é enviada para o setor responsável efetuar a alteração, não o efetuamos mais de imediato. Sendo assim, preciso que me informe seu endereço novo completo (rua, número, bairro, cidade e CEP), juntamente com seu CPF, telefone para contato e envio de SMS e o horário disponível para a validação que o setor responsável enviará a você para confirmação!",
     "@forms2": "A atualização do telefone é enviada para o setor responsável efetuar a alteração, não o efetuamos mais de imediato. Sendo assim, preciso que me informe seu número novo com DDD, juntamente com seu CPF, telefone para contato e envio de SMS e o horário disponível para a validação que enviará a você para confirmação!",
@@ -465,7 +465,6 @@
     "@limiphone": "Limpe o iphoneVai em ajustes- geral- armazenamento do iphone - aplicativos - apagar aplicativo brasil card e instala novamente.😉💙 ",
     "@limp": "Por gentileza, realize esse procedimento em seu aparelho:Configurações- Aplicativos ou Apps- Brasil Card Digital- Armazenamento- Limpar dados, e tente novamente. 🙂",
     "@link": "O cartão BrasilCard VISA não é aceito através de links de pagamentos e aplicativos que desfrutam de carteira digital. O físico apenas em lojas físicas e o virtual em lojas virtuais. Posso te ajudar em algo mais ou alguma dúvida? 😊",
-    "@lino": "jc",
     "@lipix": "Agora você pode ajustar o limite das suas transações via Pix diretamente pelo BrasilCard Digital, nosso aplicativo oficial. O processo é simples e rápido!\n\nComo solicitar?\n1. Acesse o BrasilCard Digital.\n2. Vá até a aba PIX.\n3. Selecione a opção MEUS LIMITES PIX.\n4. Insira sua senha e pronto!\n\nLimites disponíveis\n\nDurante o dia: até R$ 8.000\nÀ noite: até R$ 4.000\n\nCaso o valor desejado ultrapasse o limite disponível para alteração no aplicativo, não se preocupe! Você poderá solicitar diretamente conosco.\n\nInformações importantes\n✔ A solicitação pode ser feita apenas uma vez por dia. \n✔ O prazo de aprovação é de 24 a 48 horas.\n\nPosso lhe ajudar em algo mais? Ficou alguma dúvida? 💙😊",
     "@lise": "Deixe-me explicar como funciona o aumento de limite: na Brasilcard Visa, ele acontece de forma automática. Para isso, é essencial que o cliente pague suas faturas sempre no valor total e sem atrasos. 💙 Após isso, realizamos uma análise para verificar a possibilidade de aumento de limite.\n\n\n\n\nÉ importante destacar que não há um prazo definido para que esse aumento aconteça após a solicitação, e ele pode ou não ser aprovado. 😊 Conseguiu entender?",
     "@lj": "Não localizei cadastro para o cartão Visa. Onde o cartão foi solicitado ? Em loja, site ou aplicativo ? ",
@@ -614,7 +613,6 @@
     "@pxc": "No momento a Brasil card ainda não trabalha com a função de pix crédito! Posso te ajudar em algo mais ou alguma dúvida? 😊",
     "@pxz": "Seu pagamento seria através de saldo em conta dentro do próprio app ou através de outro banco?",
     "@q2": "qual o motivo da segunda via de cartão?",
-    "@qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?",
     "@qapp": "Qual app você tem instalado, BrasilCard Digital ou BrasilCard Cliente?",
     "@qfoi": "Qual foi a forma de pagamento e realizado por qual banco? Em qual data?",
     "@ql": "Qual seu vencimento? 😀",
@@ -780,5 +778,8 @@
     "@zx": "Você já entrou em contato sobre esse bloqueio antes? ",
     "@zz": "Quando você solicitou o cartão Brasilcard VISA (cartão de crédito)? 😊💙",
     "@ágil": "Empréstimo fácil e SEM BUROCRACIA para você 😎💰✅🟢 Solicite o seu sem comprovar renda e pague em até 36 vezes!\n\n\n1️⃣ É só entrar no aplicativo BrasilCard Digital e clicar em “Crédito Pessoal” na tela inicial;\n\n\n2️⃣ Depois, clique na imagem que vai aparecer e fale com nossos especialistas pelo WhatsApp 🤓Clique aqui e saiba mais: https:\/\/wa.link\/32deiy",
-    "arquivo": "fortics.json"
+    "arquivo": "fortics.json",
+    "#45linkam": "iii",
+    "#iii": "ii",
+    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?"
 }
