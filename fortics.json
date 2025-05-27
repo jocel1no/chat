@@ -30,7 +30,7 @@
     "#ola": "{saudacao}, tudo bem com você? Espero que sim. Meu nome é {nome}, como posso ajudar?",
     "#prazo": "O prazo de entrega é de 15 a 20 dias úteis, podendo ser entregue antes no endereço cadastrado.\n\nLembrete:\n\nComo são considerados apenas dias úteis, sábados e domingos não contam.\nAssim que o código for gerado, você poderá acompanhar o processo diretamente no aplicativo.\n\nSe estiver dentro do prazo, basta aguardar.",
     "#print": "Por gentileza poderia encaminhar um print da mensagem que aparece em seu sistema ?",
-    "#qap": "Qual aplicativo tem instalado, Brasil Card Digital ou Brasil Card Cliente?",
+    "#qap": "Qual aplicativo esta utilizando?",
     "#qua": "Qualquer nova informação ou dúvida, pode me chamar que estou disponível!",
     "#ras": "Tem um prazo de 10 dias úteis para constar rastreio, após o cartão ser emitido. Se ainda não mostra rastreio no seu aplicativo, somente aguardar o prazo para os dados serem atualizados e ser gerado o código no aplicativo.",
     "#rs": "Obrigada por aguardar o meu retorno. Foi feita a solicitação e peço que fique no aguardo. Irá receber a nova senha pelo seu e-mail. Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
@@ -120,7 +120,7 @@
     "@alo": "{saudacao}, meu nome é {nome}💙, tudo bem?\n\nAntes de iniciarmos, gostaria de lembrar que aguardamos até 5 minutos para receber suas mensagens. Após esse prazo, o chat será encerrado automaticamente por inatividade. Mas não se preocupe! Você poderá iniciar um novo atendimento quando precisar. ✅\n\nComo eu posso ajudar e qual o seu cpf?  😉",
     "@alt": "Sua solicitação foi aberta! Vai chegar pelo seu SMS um link de validação. Através dele, será solicitado:\n\n- Foto do seu rosto\n- Foto frente e verso do RG ou CNH.\n\nPara a finalização da alteração!\n\nPosso te ajudar em algo mais ou alguma dúvida? 😊",
     "@ame": "Para solicitar o Cartão Americanas, você pode fazer isso de forma simples e rápida, tanto pelo site oficial quanto pelo aplicativo da Americanas.\n\nAqui estão os links para facilitar o acesso:\nSite: www.americanas.com.br\nBasta acessar e procurar pela opção “Cartão Cliente A” no menu ou na barra de busca.\n\nAplicativo para Android:\nhttps:\/\/play.google.com\/store\/apps\/details?id=com.b2w.americanas&hl=pt_BR\n\nAplicativo para iOS:\nhttps:\/\/apps.apple.com\/app\/id476307592\n\nAo acessar, você encontrará todas as informações sobre o cartão, os benefícios e o passo a passo para fazer a solicitação.\n\nPosso te ajudar em algo mais ou alguma dúvida?🥰💙",
-    "@amigo": "É necessário a confirmação dessas informações, para ser feita a verificação. Assim que estiver com elas pode entrar em contato conosco.❤️Nome do cliente completo:Seu CPF: Número do seu wattsapp:Nome do amigo indicado completo:CPF do amigo indicado:Enviar um print do extrato da sua conta brasilcard para o whatsapp: 86 9492-2749",
+    "@amigo": "É necessário a confirmação dessas informações, para ser feita a verificação. Assim que estiver com elas pode entrar em contato conosco.❤️\nSeu nome completo: \nSeu CPF:\n Número do seu WhatsApp:\nNome do amigo indicado completo: \nCPF do amigo indicado:",
     "@an1": "Senhor, sempre que você realiza o pagamento de sua fatura o setor faz uma analise de aumento automático. É somente aguardar.🤗💜Posso ajudar em algo mais ou há outra dúvida? 😊",
     "@anaa": "Bom tarde, meu nome é Ana, tudo bem? Como posso ajudar? 💙😁",
     "@analise": "Seu cadastro está no setor de análise. Assim que finalizarem, você receberá uma mensagem de confirmação por e-mail ou via sms. ❤️",
@@ -419,7 +419,7 @@
     "@inc": "As informações pedidas estão incompletas. Para darmos continuidade ao atendimento, preciso de todas as informações. 😊",
     "@info": "Obrigada pelas informações e por ter aguardado. ",
     "@ino": "Peço perdão pela demora! No momento nosso sistema está com instabilidade. Por gentileza, entre em contato em um outro momento. A Brasilcard agradece a compreensão! 💙 😊",
-    "@ins": "No momento, o nosso aplicativo encontra-se com instabilidade para essa função. Nossa equipe de suporte já está trabalhando para solucionar essa situação. Peço que aguarde e que logo ele retornará Ajudo em algo mais alguma dúvida?😊",
+    "@ins": "No momento, o nosso aplicativo encontra-se com instabilidade para essa função. Nossa equipe de suporte já está trabalhando para solucionar essa situação.Peço que aguarde e que logo ele retornará Ajudo em algo mais alguma dúvida?😊",
     "@interno": "Nesse caso seu cadastro encontrasse em análise pelo nosso setor de segurança, sendo um setor interno, será necessário somente aguardar retorno ou liberação no aplicativo. 😥",
     "@inva": "O seu CPF consta como inválido no sistema. Pode verificar se houve algum erro ao digitar e me enviar novamente, por gentileza? 💙",
     "@io": "Oi, você ainda está aí? 😉",
@@ -783,5 +783,5 @@
     "#iii": "ii",
     "#ins": "Informamos que estamos enfrentando uma instabilidade temporária no sistema, o que impossibilitou o envio do link para acesso ao cartão provisório e a liberação do aplicativo. Nossa equipe já está trabalhando para resolver o quanto antes. Agradecemos pela compreensão.",
     "#chat": "Por gentileza, entre em contato com nosso atendimento ao cliente pelos seguintes canais: ligação gratuita pelo 0800 573 2600 ou via WhatsApp pelo link https:\/\/wa.me\/553535732644.",
-    "@qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?"
+    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?"
 }
