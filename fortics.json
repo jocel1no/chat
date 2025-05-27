@@ -120,7 +120,7 @@
     "@alo": "{saudacao}, meu nome é {nome}💙, tudo bem?\n\nAntes de iniciarmos, gostaria de lembrar que aguardamos até 5 minutos para receber suas mensagens. Após esse prazo, o chat será encerrado automaticamente por inatividade. Mas não se preocupe! Você poderá iniciar um novo atendimento quando precisar. ✅\n\nComo eu posso ajudar e qual o seu cpf?  😉",
     "@alt": "Sua solicitação foi aberta! Vai chegar pelo seu SMS um link de validação. Através dele, será solicitado:\n\n- Foto do seu rosto\n- Foto frente e verso do RG ou CNH.\n\nPara a finalização da alteração!\n\nPosso te ajudar em algo mais ou alguma dúvida? 😊",
     "@ame": "Para solicitar o Cartão Americanas, você pode fazer isso de forma simples e rápida, tanto pelo site oficial quanto pelo aplicativo da Americanas.\n\nAqui estão os links para facilitar o acesso:\nSite: www.americanas.com.br\nBasta acessar e procurar pela opção “Cartão Cliente A” no menu ou na barra de busca.\n\nAplicativo para Android:\nhttps:\/\/play.google.com\/store\/apps\/details?id=com.b2w.americanas&hl=pt_BR\n\nAplicativo para iOS:\nhttps:\/\/apps.apple.com\/app\/id476307592\n\nAo acessar, você encontrará todas as informações sobre o cartão, os benefícios e o passo a passo para fazer a solicitação.\n\nPosso te ajudar em algo mais ou alguma dúvida?🥰💙",
-    "@amigo": "É necessário a confirmação dessas informações, para ser feita a verificação. Assim que estiver com elas pode entrar em contato conosco.❤️\nSeu nome completo: \nSeu CPF:\n Número do seu WhatsApp:\nNome do amigo indicado completo: \nCPF do amigo indicado:",
+    "@amigo": "É necessário a confirmação dessas informações, para ser feita a verificação. Assim que estiver com elas pode entrar em contato conosco.❤️Nome do cliente completo:Seu CPF: Número do seu wattsapp:Nome do amigo indicado completo:CPF do amigo indicado:Enviar um print do extrato da sua conta brasilcard para o whatsapp: 86 9492-2749",
     "@an1": "Senhor, sempre que você realiza o pagamento de sua fatura o setor faz uma analise de aumento automático. É somente aguardar.🤗💜Posso ajudar em algo mais ou há outra dúvida? 😊",
     "@anaa": "Bom tarde, meu nome é Ana, tudo bem? Como posso ajudar? 💙😁",
     "@analise": "Seu cadastro está no setor de análise. Assim que finalizarem, você receberá uma mensagem de confirmação por e-mail ou via sms. ❤️",
@@ -783,5 +783,6 @@
     "#iii": "ii",
     "#ins": "Informamos que estamos enfrentando uma instabilidade temporária no sistema, o que impossibilitou o envio do link para acesso ao cartão provisório e a liberação do aplicativo. Nossa equipe já está trabalhando para resolver o quanto antes. Agradecemos pela compreensão.",
     "#chat": "Por gentileza, entre em contato com nosso atendimento ao cliente pelos seguintes canais: ligação gratuita pelo 0800 573 2600 ou via WhatsApp pelo link https:\/\/wa.me\/553535732644.",
-    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?"
+    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?",
+    "#aus1": "Vou me ausentar por um instante enquanto verifico sua solicitação. Já retorno com uma resposta."
 }
