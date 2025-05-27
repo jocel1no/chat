@@ -30,7 +30,7 @@
     "#ola": "{saudacao}, tudo bem com você? Espero que sim. Meu nome é {nome}, como posso ajudar?",
     "#prazo": "O prazo de entrega é de 15 a 20 dias úteis, podendo ser entregue antes no endereço cadastrado.\n\nLembrete:\n\nComo são considerados apenas dias úteis, sábados e domingos não contam.\nAssim que o código for gerado, você poderá acompanhar o processo diretamente no aplicativo.\n\nSe estiver dentro do prazo, basta aguardar.",
     "#print": "Por gentileza poderia encaminhar um print da mensagem que aparece em seu sistema ?",
-    "#qap": "Qual aplicativo esta utilizando?",
+    "#qap": "Qual aplicativo tem instalado, Brasil Card Digital ou Brasil Card Cliente?",
     "#qua": "Qualquer nova informação ou dúvida, pode me chamar que estou disponível!",
     "#ras": "Tem um prazo de 10 dias úteis para constar rastreio, após o cartão ser emitido. Se ainda não mostra rastreio no seu aplicativo, somente aguardar o prazo para os dados serem atualizados e ser gerado o código no aplicativo.",
     "#rs": "Obrigada por aguardar o meu retorno. Foi feita a solicitação e peço que fique no aguardo. Irá receber a nova senha pelo seu e-mail. Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
@@ -781,7 +781,7 @@
     "arquivo": "fortics.json",
     "#45linkam": "iii",
     "#iii": "ii",
-    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?",
     "#ins": "Informamos que estamos enfrentando uma instabilidade temporária no sistema, o que impossibilitou o envio do link para acesso ao cartão provisório e a liberação do aplicativo. Nossa equipe já está trabalhando para resolver o quanto antes. Agradecemos pela compreensão.",
-    "#chat": "Por gentileza, entre em contato com nosso atendimento ao cliente pelos seguintes canais: ligação gratuita pelo 0800 573 2600 ou via WhatsApp pelo link https:\/\/wa.me\/553535732644."
+    "#chat": "Por gentileza, entre em contato com nosso atendimento ao cliente pelos seguintes canais: ligação gratuita pelo 0800 573 2600 ou via WhatsApp pelo link https:\/\/wa.me\/553535732644.",
+    "@qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?"
 }
