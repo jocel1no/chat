@@ -784,5 +784,6 @@
     "#ins": "Informamos que estamos enfrentando uma instabilidade temporária no sistema, o que impossibilitou o envio do link para acesso ao cartão provisório e a liberação do aplicativo. Nossa equipe já está trabalhando para resolver o quanto antes. Agradecemos pela compreensão.",
     "#chat": "Por gentileza, entre em contato com nosso atendimento ao cliente pelos seguintes canais: ligação gratuita pelo 0800 573 2600 ou via WhatsApp pelo link https:\/\/wa.me\/553535732644.",
     "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?",
-    "#aus1": "Vou me ausentar por um instante enquanto verifico sua solicitação. Já retorno com uma resposta."
+    "#aus1": "Vou me ausentar por um instante enquanto verifico sua solicitação. Já retorno com uma resposta.",
+    "#aus2": "Enquanto verifico as informações solicitadas, estarei temporariamente ausente. Retorno em breve."
 }
