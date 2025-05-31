@@ -24,7 +24,7 @@
     "#limite": "Verifiquei que você foi aprovado com limite inicial de R$0,0 !!\nAcesse o aplicativo Brasil Card digital e aproveite!",
     "#link": "Obrigada, pelas informações. Já foi realizado o envio de um novo link para o número de telefone informado. Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
     "#melhor": "melhores dias de compras de cada vencimento:\n\nvencimento -01 melhor dia compra 23\nvencimento -05 melhor dia compra 29\nvencimento -08 melhor dia compra 30\nvencimento -10 melhor dia compra 03\nvencimento -15 melhor dia compra 06\nvencimento -20 melhor dia compra 13\nvencimento -25 melhor dia compra 18\n\no melhor dia de compra também é o fechamento da fatura então se ele compra no melhor dia de compra ou após isso não virá para o mesmo mês.",
-    "#ncomp": "Em nosso sistema não constam tentativas. Neste caso pode ser o sistema da americanas negando a compra. Recomendamos que acione o seu suporte interno para mais informações.",
+    "#ncomp": "Em nosso sistema não constou tentativas. Neste caso pode ser o sistema da americanas negando a compra. Recomendamos que acione o seu suporte interno para mais informações através do numero 4000.",
     "#obg": "Obrigada por aguardar o meu retorno.",
     "#ok": "Certo, só um momento enquanto verifico as informações, qualquer duvida pode me sinalizar!",
     "#ola": "{saudacao}, tudo bem com você? Espero que sim. Meu nome é {nome}, como posso ajudar?",
@@ -783,5 +783,9 @@
     "#ins": "Informamos que estamos enfrentando uma instabilidade temporária no sistema, o que impossibilitou o envio do link para acesso ao cartão provisório e a liberação do aplicativo. Nossa equipe já está trabalhando para resolver o quanto antes. Agradecemos pela compreensão.",
     "#chat": "Por gentileza, entre em contato com nosso atendimento ao cliente pelos seguintes canais: ligação gratuita pelo 0800 573 2600 ou via WhatsApp pelo link https:\/\/wa.me\/553535732644.",
     "@qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?",
-    "#aus1": "Vou me ausentar por um instante enquanto verifico sua solicitação. Já retorno com uma resposta."
+    "#aus1": "Vou me ausentar por um instante enquanto verifico sua solicitação. Já retorno com uma resposta.",
+    "#virt": "Passo a passo para criar o cartão virtual: \n\n1 - Abra o aplicativo Brasilcard Digital e clique na opção \"Cartão Virtual\". \n2 -  Selecione \"Criar Cartão Virtual\" e digite a  senha de 4 dígitos. \n Pronto! Agora é só aproveitar nas compras online!",
+    "@jaja": "Por gentileza peço compreensão, pois o atendimento não é único. Atendemos de 15 a 20 pessoas simultaneamente. Desde já agradeço! 🤍",
+    "@m1": "Bom dia, meu nome é   Mirelly , tudo bem? Como posso ajudar você hoje? 💙😊 \n\n\n\nAntes de iniciarmos, só queria te lembrar que temos um prazo para o envio das mensagens. Se esse tempo for ultrapassado, o chat será encerrado por falta de comunicação. Mas não se preocupe, caso isso aconteça, você pode abrir outro chat quando precisar. ✅",
+    "@m3": "Olá, me chamo Mirelly!!\nDarei continuidade ao seu atendimento! 😊\nPeço que aguarde um momento, enquanto verifico as mensagens anteriores, para verificar de que forma  posso te ajudar.💙"
 }
