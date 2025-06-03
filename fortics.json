@@ -1,5 +1,5 @@
 {
-    "#aberto": "Enviei ao setor responsável. As próximas informações serão enviadas em seu e-mail e agora é só aguardar.",
+    "#aberto": "Realizei sua solicitação . As próximas informações serão enviadas em seu e-mail e agora é só aguardar.",
     "#ag": "Consigo lhe ajudar em algo mais, ou ficou com alguma dúvida?",
     "#am": "Agradecemos a confirmação de dados. Verifico que seu atendimento necessita de uma análise manual, devido a isso peço que aguarde o meu retorno em até 10 min. Caso precise pode me chamar.",
     "#app": "Baixe o aplicativo aqui:\n\nAndroid: https:\/\/play.google.com\/store\/apps\/details?id=br.com.brasilcard.app_banco_digital&pcampaignid=web_share\n\niPhone: https:\/\/apps.apple.com\/br\/app\/brasilcard-digital\/id1593431800",
@@ -381,7 +381,7 @@
     "@fnf": "Como o ciclo de faturamento da sua fatura ainda não se encerrou, ou seja, sua fatura não fechou, não é possível  fazer o seu envio no momento, somente quando esse ciclo se encerrar! Posso te ajudar em algo mais ou alguma dúvida? 😊",
     "@foi": "Foi um prazer atender você. Irei encaminhar uma pesquisa de avaliação do meu atendimento, conto com sua ajuda para um melhor crescimento na empresa. Estamos sempre a disposição. 💜✨",
     "@font": "Nesse caso, você precisa diminuir a fonte do seu aparelho telefônico!\n\nPara diminuir ou aumentar a fonte, siga estas instruções:\n\n- No dispositivo, abra o app Configurações.\n- Pesquise e selecione Tamanho da fonte.\n- Para mudar o tamanho da fonte, mova o controle deslizante para a esquerda ou direita.\n\nPosso te ajudar em algo mais ou alguma dúvida? 😊",
-    "@fonte": "Nesse caso, você precisa diminuir a fonte do seu aparelho telefônico!Para diminuir ou aumentar a fonte, siga estas instruções:- No dispositivo, abra o app Configurações.- Pesquise e selecione Tamanho da fonte.- Para mudar o tamanho da fonte, mova o controle deslizante para a esquerda ou direita.Posso te ajudar em algo mais ou alguma dúvida? 😊",
+    "@fonte": "Nesse caso, você precisa diminuir a fonte do seu aparelho telefônico!\n\nPara diminuir ou aumentar a fonte, siga estas instruções:\n\n- No dispositivo, abra o app Configurações.\n- Pesquise e selecione Tamanho da fonte.\n- Para mudar o tamanho da fonte, mova o controle deslizante para a esquerda ou direita.\n\nPosso te ajudar em algo mais ou alguma dúvida? 😊",
     "@forms1": "A atualização do endereço é enviada para o setor responsável efetuar a alteração, não o efetuamos mais de imediato. Sendo assim, preciso que me informe seu endereço novo completo (rua, número, bairro, cidade e CEP), juntamente com seu CPF, telefone para contato e envio de SMS e o horário disponível para a validação que o setor responsável enviará a você para confirmação!",
     "@forms2": "A atualização do telefone é enviada para o setor responsável efetuar a alteração, não o efetuamos mais de imediato. Sendo assim, preciso que me informe seu número novo com DDD, juntamente com seu CPF, telefone para contato e envio de SMS e o horário disponível para a validação que enviará a você para confirmação!",
     "@fot": "Para prosseguirmos com a validação, será necessário que você encaminhe aqui no atendimento uma selfie segurando um documento com foto e uma foto frente e verso do documento.",
@@ -788,6 +788,6 @@
     "@jaja": "Por gentileza peço compreensão, pois o atendimento não é único. Atendemos de 15 a 20 pessoas simultaneamente. Desde já agradeço! 🤍",
     "@m1": "Bom dia, meu nome é   Mirelly , tudo bem? Como posso ajudar você hoje? 💙😊 \n\n\n\nAntes de iniciarmos, só queria te lembrar que temos um prazo para o envio das mensagens. Se esse tempo for ultrapassado, o chat será encerrado por falta de comunicação. Mas não se preocupe, caso isso aconteça, você pode abrir outro chat quando precisar. ✅",
     "@m3": "Olá, me chamo Mirelly!!\nDarei continuidade ao seu atendimento! 😊\nPeço que aguarde um momento, enquanto verifico as mensagens anteriores, para verificar de que forma  posso te ajudar.💙",
-    "#sms1": "Referente a taxa do serviço de sms:\nsua solicitação requer atenção especial.\n\nPedimos que entre em contato pelo número 0800 573 2600 para cancelar o serviço Facilidade SMS. Este procedimento é realizado exclusivamente por telefone, garantindo um atendimento personalizado para você.\n\nNossa equipe está à sua disposição!",
-    "@#csm": "Para realizar o cancelamento de SMS, oriente o cliente a entrar em contato com o 0800 573 2600."
+    "#aus2": "Enquanto verifico as informações solicitadas, estarei temporariamente ausente. Retorno em breve.",
+    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?"
 }
