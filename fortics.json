@@ -16,7 +16,7 @@
     "#dad": "Para darmos continuidade à sua solicitação, precisamos que nos forneça os seguintes dados:\nNome completo:\nCódigo da loja:\nProntuário:\nE-mail:\nCPF:\ntelefone:",
     "#ebio": "O link foi enviado com sucesso e terá validade de uma hora. Assim que recebermos a documentação necessária, a resposta será disponibilizada diretamente no seu aplicativo BrasilCard Digital.",
     "#gg": "Peço, por gentileza, que aguarde enquanto verifico as informações.",
-    "#gt": "Disponha!\nFoi um prazer poder ajudar! Desejo a você uma excelente  semana. e até logo!",
+    "#gt": "Disponha!\nFoi um prazer poder ajudar! Desejo a você uma excelente semana.",
     "#hola": "Olá! Me chamo {nome}. Vi que você já passou por um atendimento anterior. Vou verificar o que foi tratado para seguir com a sua solicitação. Só um instante!",
     "#in1": "O tempo de espera foi excedido. Retorne quando puder. Estamos à disposição!\n\nEncerramos o atendimento devido à falta de interação. Será um prazer atendê-lo(a) novamente!",
     "#ina": "Ainda está conosco? Se precisar de algo, é só avisar!",
@@ -789,5 +789,7 @@
     "@m1": "Bom dia, meu nome é   Mirelly , tudo bem? Como posso ajudar você hoje? 💙😊 \n\n\n\nAntes de iniciarmos, só queria te lembrar que temos um prazo para o envio das mensagens. Se esse tempo for ultrapassado, o chat será encerrado por falta de comunicação. Mas não se preocupe, caso isso aconteça, você pode abrir outro chat quando precisar. ✅",
     "@m3": "Olá, me chamo Mirelly!!\nDarei continuidade ao seu atendimento! 😊\nPeço que aguarde um momento, enquanto verifico as mensagens anteriores, para verificar de que forma  posso te ajudar.💙",
     "#aus2": "Enquanto verifico as informações solicitadas, estarei temporariamente ausente. Retorno em breve.",
-    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?"
+    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?",
+    "#sms1": "Referente a taxa do serviço de sms:\nsua solicitação requer atenção especial.\n\nPedimos que entre em contato pelo número 0800 573 2600 para cancelar o serviço Facilidade SMS. Este procedimento é realizado exclusivamente por telefone, garantindo um atendimento personalizado para você.\n\nNossa equipe está à sua disposição!",
+    "@#csm": "Para realizar o cancelamento de SMS, oriente o cliente a entrar em contato com o 0800 573 2600."
 }
