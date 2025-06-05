@@ -791,8 +791,7 @@
     "#aus2": "Enquanto verifico as informações solicitadas, estarei temporariamente ausente. Retorno em breve.",
     "#sms1": "Referente a taxa do serviço de sms:\nsua solicitação requer atenção especial.\n\nPedimos que entre em contato pelo número 0800 573 2600 para cancelar o serviço Facilidade SMS. Este procedimento é realizado exclusivamente por telefone, garantindo um atendimento personalizado para você.\n\nNossa equipe está à sua disposição!",
     "@csm": "Para realizar o cancelamento de SMS, oriente o cliente a entrar em contato com o 0800 573 2600.",
-    "#ntok": "Quando o token não estiver chegando no aparelho do cliente realize o procedimento abaixo:\nverifique se há algum tipo de  bloqueio no número para receber sms.\npor gentileza verifique se chegou na caixa de spam ou na lixeira.\nFeche e abra novamente a proposta do cliente e solicite o token novamente.",
-    "#a1": "Vou me ausentar por um instante enquanto verifico sua solicitação. Já retorno com uma resposta.",
-    "#a2": "Enquanto verifico as informações solicitadas, estarei temporariamente ausente. Retorno em breve.",
-    "#per": "Perdão, irei me ausentar por alguns minutos, mas não se preocupe. Estou lhe transferindo para outro atendente para prosseguir com o seu atendimento."
+    "#ntok": "Quando o token não estiver chegando no aparelho do lojista realize o procedimento abaixo:\nFeche e abra novamente a proposta do cliente e solicite o token novamente.",
+    "#per": "Perdão, irei me ausentar por alguns minutos, mas não se preocupe. Estou lhe transferindo para outro atendente para prosseguir com o seu atendimento.",
+    "@negvis": "Devido ao status da sua conta precisarei lhe transferir para o setor de negociações BrasilCard VISA. Aguarde! Estarei lhe transferindo para o setor responsável para concluir a sua solicitação. 😊💙"
 }
