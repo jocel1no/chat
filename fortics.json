@@ -791,6 +791,6 @@
     "#aus2": "Enquanto verifico as informações solicitadas, estarei temporariamente ausente. Retorno em breve.",
     "#sms1": "Referente a taxa do serviço de sms:\nsua solicitação requer atenção especial.\n\nPedimos que entre em contato pelo número 0800 573 2600 para cancelar o serviço Facilidade SMS. Este procedimento é realizado exclusivamente por telefone, garantindo um atendimento personalizado para você.\n\nNossa equipe está à sua disposição!",
     "@csm": "Para realizar o cancelamento de SMS, oriente o cliente a entrar em contato com o 0800 573 2600.",
-    "#ntok": "Quando o token não estiver chegando no aparelho do lojista realize o procedimento abaixo:\nFeche e abra novamente a proposta do cliente e solicite o token novamente.",
+    "#ntok": "Quando o token não estiver chegando no aparelho do cliente realize o procedimento abaixo:\nFeche e abra a proposta do cliente e solicite o token novamente.",
     "#per": "Perdão, irei me ausentar por alguns minutos, mas não se preocupe. Estou lhe transferindo para outro atendente para prosseguir com o seu atendimento."
 }
