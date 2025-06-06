@@ -15,8 +15,8 @@
     "#d": "O desbloqueio é realizado apenas no aplicativo. O aplicativo para realizar o desbloqueio é o Brasilcard Digital.💙",
     "#dad": "Para darmos continuidade à sua solicitação, precisamos que nos forneça os seguintes dados:\nNome completo:\nCódigo da loja:\nProntuário:\nE-mail:\nCPF:\ntelefone:",
     "#ebio": "O link foi enviado com sucesso e terá validade de uma hora. Assim que recebermos a documentação necessária, a resposta será disponibilizada diretamente no seu aplicativo BrasilCard Digital.",
-    "#gg": "Disponha! Foi um prazer poder ajudar. Desejo a você uma excelente semana. Ah, e aproveito para lembrar que sua opinião é muito importante para nós, não deixe de responder à nossa pesquisa de satisfação!",
-    "#gt": "Disponha! Foi um prazer poder ajudar. Desejo a você uma excelente semana. Ah, e aproveito para lembrar que sua opinião é muito importante para nós — não deixe de responder à nossa pesquisa de satisfação!Disponha! Foi um prazer poder ajudar. Desejo a você uma excelente semana. Ah, e aproveito para lembrar que sua opinião é muito importante para nós — não deixe de responder à nossa pesquisa de satisfação!",
+    "#gg": "Peço, por gentileza, que aguarde enquanto verifico as informações.",
+    "#gt": "Disponha!\nFoi um prazer poder ajudar! Desejo a você uma excelente semana.",
     "#hola": "Olá! Me chamo {nome}. Vi que você já passou por um atendimento anterior. Vou verificar o que foi tratado para seguir com a sua solicitação. Só um instante!",
     "#in1": "O tempo de espera foi excedido. Retorne quando puder. Estamos à disposição!\n\nEncerramos o atendimento devido à falta de interação. Será um prazer atendê-lo(a) novamente!",
     "#ina": "Ainda está conosco? Se precisar de algo, é só avisar!",
@@ -794,5 +794,9 @@
     "#a1": "Vou me ausentar por um instante enquanto verifico sua solicitação. Já retorno com uma resposta.",
     "#a2": "Enquanto verifico as informações solicitadas, estarei temporariamente ausente. Retorno em breve.",
     "#ntok": "Quando o token não estiver chegando no aparelho do cliente realize o procedimento abaixo:\nverifique se há algum tipo de  bloqueio no número para receber sms.\npor gentileza verifique se chegou na caixa de spam ou na lixeira.\nFeche e abra novamente a proposta do cliente e solicite o token novamente.",
-    "#per": "Perdão, irei me ausentar por alguns minutos, mas não se preocupe. Estou lhe transferindo para outro atendente para prosseguir com o seu atendimento."
+    "#per": "Perdão, irei me ausentar por alguns minutos, mas não se preocupe. Estou lhe transferindo para outro atendente para prosseguir com o seu atendimento.",
+    "#td": "Tudo bem, estou aguardando.",
+    "@#qap": "Qual aplicativo tem instalado, BrasilCard Digital ou BrasilCard Cliente?",
+    "@liga": "Por gentileza, entre em contato com nosso atendimento ao cliente pelos seguintes canais: ligação gratuita pelo 0800 573 2600 ou via WhatsApp pelo link https:\/\/wa.me\/553535732644.",
+    "@lino": "jc"
 }
